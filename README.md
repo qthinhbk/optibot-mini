@@ -49,19 +49,24 @@ Gemini uses document-level chunking: each Markdown article is one uploaded knowl
 
 ## Daily Job Log
 
-Local artifact: `job_logs/latest.json`
+* **Public Hosted Log URL**: [GitHub Actions Daily Workflow Run #29001145228](https://github.com/qthinhbk/optibot-mini/actions/runs/29001145228)
+* **Local Artifact**: `job_logs/latest.json`
 
-GitHub Actions deployment:
+### GitHub Actions Deployment
 
 1. Add repository secret `GEMINI_API_KEY`.
 2. Push this repo.
 3. Run **Daily OptiBot Knowledge Refresh** manually once, or wait for the daily cron.
 4. Use that workflow run's `latest-job-log` artifact as the public/latest run log.
 
-Latest local run:
-
+Latest job run output:
 ```json
-{"added":0,"updated":0,"skipped":406,"uploaded":0}
+{
+  "added": 0,
+  "updated": 0,
+  "skipped": 406,
+  "uploaded": 0
+}
 ```
 
 ## Screenshot
