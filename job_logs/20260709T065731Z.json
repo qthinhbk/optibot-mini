@@ -1,0 +1,21 @@
+{
+  "ran_at": "2026-07-09T06:57:31.548366+00:00",
+  "scrape": {
+    "total": 406,
+    "added": 0,
+    "updated": 0,
+    "skipped": 406,
+    "errors": 0
+  },
+  "delta": {
+    "added": 0,
+    "updated": 0,
+    "skipped": 406,
+    "uploaded": 0
+  },
+  "gemini": {
+    "model": "gemini-3.1-flash-lite",
+    "knowledge_files": 406,
+    "estimated_chunks_embedded": 406
+  }
+}

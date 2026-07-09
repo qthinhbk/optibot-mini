@@ -1,0 +1,12 @@
+---
+title: "How can I improve stability of Fire TV as Digital Signage player?"
+article_id: 360016484393
+url: "https://support.optisigns.com/hc/en-us/articles/360016484393-How-can-I-improve-stability-of-Fire-TV-as-Digital-Signage-player"
+created_at: "2019-01-30T13:22:42Z"
+updated_at: "2025-09-04T15:33:49Z"
+---
+# How can I improve stability of Fire TV as Digital Signage player?
+
+We have a great whitepaper:
+
+[6 ways to improve stability and controls over your  digital signs set up with Amazon Fire TV](https://s3.amazonaws.com/optisigns-public/Improve+stability+of+your+digital+signs+running+Amazon+Fire+TV.pdf)

@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.pyc
+openai_upload_manifest.json
+openai_assistant_manifest.json
+upload_manifest.json
