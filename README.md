@@ -1,4 +1,4 @@
-# OptiBot Mini Clone
+# OptiBot
 
 ## Setup
 
@@ -50,6 +50,7 @@ Gemini uses document-level chunking: each Markdown article is one uploaded knowl
 ## Daily Job Log
 
 * **Public Hosted Log URL**: [GitHub Actions Daily Workflow Run #29001145228](https://github.com/qthinhbk/optibot-mini/actions/runs/29001145228)
+* **Latest Run Artifact (latest-job-log)**: [Download latest.json](https://github.com/qthinhbk/optibot-mini/actions/runs/29001145228/artifacts/8191787223)
 * **Local Artifact**: `job_logs/latest.json`
 
 ### GitHub Actions Deployment
@@ -71,4 +72,4 @@ Latest job run output:
 
 ## Screenshot
 
-Use the output in `gemini_test_answer.txt` or the terminal output from `python upload_to_gemini.py` for the screenshot. It includes the cited `Article URL:` line.
+![OptiBot Google AI Studio Chat Screenshot](screenshots/playground.png)
